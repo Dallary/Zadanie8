@@ -40,6 +40,6 @@ body {
 {
     color: gray;
 }
-.btn btn-success{
-    color:gray;
+.btn-success{
+    background-color:gray;
 }
